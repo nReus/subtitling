@@ -13,7 +13,7 @@ Subtitles for various Japanese works, mainly all-ages ASMR audio. Yeah, like hel
 
 </details>
 
-If there are no official subtitles included with releases, then I will also provide the cleaned up Whisper `.srt` outputs
+If there are no official subtitles included with releases, then I will also provide the cleaned up Whisper `.srt` outputs. Eventually.
 
 ---
 
