@@ -9,6 +9,7 @@ Subtitles for various Japanese works, mainly all-ages ASMR audio. Yeah, like hel
 
 - Blue Archive ASMR
   - Volume Hina
+  - Volume Kayoko (not yet, but I'm pumped to work on this)
 - nothing else, yet
 
 </details>
