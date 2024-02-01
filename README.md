@@ -5,7 +5,7 @@ some stuff to read when nothing you hear makes sense
 Subtitles for various Japanese works, mainly all-ages ASMR audio. Yeah, like hell I'm doing any translations of NSFW ASMR. All subtitles are in `.srt` format, which is more than 100% compatible with all video players on desktop or phone.
 
 <details>
-  <summary>what subtitles do you have? (click to expand)</summary>
+  <summary>what subtitles do you have? or will have? (click to expand)</summary>
 
 - Blue Archive ASMR
   - Volume Hina
