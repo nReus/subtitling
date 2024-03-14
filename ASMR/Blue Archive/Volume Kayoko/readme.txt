@@ -4,6 +4,12 @@ Subtitle Directory
 = = = = = = = = = = = = = = = = = = = = 
 [00:07] - 01. Title Call
 [09:34] - 02. The Promise of Rain
+[18:52] - 03. The Way of Tidiness
+[16:19] - 04. 
+[11:22] - 05. 
+
+[18:05] - 06/07. Bonus Track
+
 ...
 *list unfinished.
 
