@@ -1,4 +1,4 @@
-Subtitle Directory
+Subtitle Directory - Kayoko ASMR
 
 [Dura.] - ##. Track Title
 = = = = = = = = = = = = = = = = = = = = 
@@ -10,11 +10,7 @@ Subtitle Directory
 
 [18:05] - 06/07. Bonus Track
 
-...
-*list unfinished.
-
-
-
+_________________________________________________
 Credits:
 OpenAI/Whisper 	- audio transcription tool
 nReus			- subtitle retiming, transcript check, translation
